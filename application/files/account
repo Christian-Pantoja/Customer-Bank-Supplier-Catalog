@@ -1,0 +1,5 @@
+email[0]	username[1]	password[2]	AccountType[3]	role[4]	FirstName[5]	LastName[6]	address[7]	phonenumber[8] CreditCardNumnber
+email@notyet	anlam	123	regular	Customer	an	lam	abc	123	123456789001
+email@notyet	wqe	wqe	regular	Customer	wq	qwe	wqe	12	321
+email@notyet	wqe123	wqe	Premium	Customer	wq	qwe	wqe	12	123456789
+sup1Supplier@company.com	sup1	sup1	supplier	Supplier	first	last	Address Supplier	1111	123456789
