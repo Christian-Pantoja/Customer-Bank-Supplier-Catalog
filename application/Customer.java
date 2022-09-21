@@ -1,0 +1,7 @@
+package application;
+
+interface Customer{
+	
+	
+	
+}

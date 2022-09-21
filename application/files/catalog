@@ -1,0 +1,21 @@
+ItemID	itemName	descriptions	regularPrice	premium price
+1	Apple	Fruit	20.3	19.5
+2	Orange	Fruit	3.19	2.89
+3	Speaker	Sound	30.00	27.67
+4	Car	Moving	1500.00	1250.00	
+5	ice	Drinks	7.89	6.50
+6	Vanilla	Baking	2.30	2.00
+7	iPhones	Phone	350.00	335.00
+8	Tv	Tele	537.00	500.00
+9	Watch	Time	180.00	150.00
+10	Water	Hydro	5.89	5.30
+11	Laptop	Comp	215.56	198.99
+12	Straws	Plastic	1.50	1.35
+13	Doritos	Chips	1.99	1.78
+14	Cheetos	Chips	1.98	1.78
+15	Fridge	Cool	350.78	325.00
+16	Monitor	Screen	189.67	180.89
+17	Mouse	Comp	15.45	13.89
+18	Ball	Sports	8.00	7.80
+19	Cups	Plastic	3.50	3.25
+20	Plates	Plastic	3.50	3.25
